@@ -12,7 +12,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Application volume](#application-volume)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Recording system audio](#recording-system-audio)<br/> 
 [Download](#download)<br/> 
-[Build and Install](#build-and-install)</br>
+[Build and Install](#installing-from-source-code)</br>
 [Uninstall](#uninstall)<br/>
 [Troubleshooting](#troubleshooting)<br/> 
 [Related Projects](#related-projects)<br/> 
@@ -33,7 +33,7 @@
 
 The auto-pause feature currently supports following music players:
 
-+ iTunes
++ [iTunes](https://www.apple.com/itunes/)
 + [Spotify](https://www.spotify.com)
 + [VLC](https://www.videolan.org/vlc/)
 + [VOX](https://vox.rocks/mac-music-player)
